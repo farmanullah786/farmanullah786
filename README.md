@@ -1,13 +1,13 @@
 # Hi 👋, My name is Farman Ullah
 ## Full Stack Developer
- 
+
 Hello, I'm Farman Ullah, a skilled Full Stack Developer proficient in Python, Django, Django Rest Framework, and the MERN stack (MongoDB, Express.js, React.js, Node.js). I specialize in building robust, user-friendly web applications and creating efficient APIs.  
- 
-- 🌱 I’m currently learning Nextjs
+
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m open to work with you
 - 🌎 I'm based in Peshawar, PK
-- 🎽 Love Runing and sometimes crickect
- 
+- 🎽 Love Running and sometimes cricket
+
 ---
 
 ## 💻 Skills  
@@ -15,21 +15,51 @@ Hello, I'm Farman Ullah, a skilled Full Stack Developer proficient in Python, Dj
 
 ---
 
-## 🚀 Services  
-- **Full Stack Web Development:** Expertise in Python, Django, and the MERN stack.  
-- **API Development:** Creating secure REST APIs with Django Rest Framework and Node.js.  
-- **Frontend Development:** Building interactive UIs using ReactJS and Tailwind CSS.  
-- **Database Management:** Proficient in MySQL, MongoDB, and SQLite.
-- 
+### Services
+
+- **Full Stack Web Development**  
+  Building robust web applications using Python, Django, and the MERN stack.
+  
+- **API Development**  
+  Creating secure and efficient APIs with Django Rest Framework and Node.js.
+  
+- **Front-End Development**  
+  Crafting responsive and interactive user interfaces with ReactJS and Bootstrap.
+  
+- **Back-End Development**  
+  Offering reliable server-side logic and database solutions with Python and Node.js.
+  
+- **Database Management**  
+  Efficiently managing databases like MySQL, SQLite, and MongoDB.
+  
+- **Version Control System**  
+  Managing codebase efficiently with Git for smooth collaboration.
+  
+- **Testing and Debugging**  
+  Providing thorough testing and debugging services for optimal performance.
+  
+- **Postman API Testing**  
+  Ensuring API functionality with thorough testing using Postman.
+
 ---
 
-## 🏆 Professional Experience  
-- **Frontend Developer** | K2X Tech (Apr 2024 - Present)  
-  Specializing in dynamic and responsive web applications using modern frameworks.  
-- **Full Stack Developer** | ERISP IT Services (Jan 2024 - Mar 2024)  
-  Worked on backend and frontend tasks, including Python Odoo projects.  
-- **Intern** | ItecExperts Pvt Ltd (Jul 2022 - Jan 2023)  
-  Learned full-stack principles and worked on multiple projects.  
+### 🏆 Professional Experience  
+
+#### Frontend Developer | **K2X Tech**  
+**Apr 2024 - Present** (On-site)  
+Currently working full-time as a Frontend Developer, specializing in creating dynamic and responsive web applications. Utilizing modern technologies to deliver high-quality user experiences.
+
+#### Junior Full Stack Developer | **ERISP IT Services**  
+**Jan 2024 - Mar 2024** (On-site)  
+Managed both backend and frontend tasks, including involvement in Python Odoo projects. Contributed to diverse projects and expanded technical skills.
+
+#### Full Stack Developer | **Abasyn University**  
+**Feb 2023 - Sep 2023** (On-site)  
+Worked in a hybrid environment, managing comprehensive development tasks for university projects. Enhanced both backend and frontend functionalities.
+
+#### Intern | Full Stack Developer | **ItecExperts Pvt Ltd**  
+**Jul 2022 - Jan 2023** (On-site)  
+Gained hands-on experience in end-to-end application development, actively contributing to multiple projects. Strengthened skills in both frontend and backend technologies.
 
 ---
 
@@ -40,4 +70,4 @@ Hello, I'm Farman Ullah, a skilled Full Stack Developer proficient in Python, Dj
 
 ---
 
-© 2024 Farman Ullah 
+© 2024 Farman Ullah
