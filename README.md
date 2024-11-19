@@ -15,7 +15,7 @@ I'm a Full Stack Developer proficient in Python, Django, Django Rest Framework, 
 
 ---
 
-### Services
+### Development Expertise
 
 - **Full Stack Web Development**  
   Building robust web applications using Python, Django, and the MERN stack.
