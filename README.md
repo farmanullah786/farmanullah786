@@ -1,7 +1,7 @@
 # Hi 👋, My name is Farman Ullah
 ## Full Stack Developer
 
-Hello, I'm Farman Ullah, a skilled Full Stack Developer proficient in Python, Django, Django Rest Framework, and the MERN stack (MongoDB, Express.js, React.js, Node.js). I specialize in building robust, user-friendly web applications and creating efficient APIs.  
+I'm a Full Stack Developer proficient in Python, Django, Django Rest Framework, and the MERN stack (MongoDB, Express.js, React.js, Node.js). I specialize in building robust, user-friendly web applications and creating efficient APIs.  
 
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m open to work with you
