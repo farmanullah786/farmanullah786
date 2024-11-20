@@ -11,7 +11,7 @@ I'm a Full Stack Developer proficient in Python, Django, Django Rest Framework, 
 ---
 
 ## 💻 Skills  
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,typescript,react,redux,nodejs,python,django,mysql,sqlite,mongodb,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,typescript,react,redux,nodejs,python,django,mysql,mongodb,git,postman)](https://skillicons.dev)
 
 ---
 
