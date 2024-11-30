@@ -66,7 +66,7 @@ Gained hands-on experience in end-to-end application development, actively contr
 ## 📫 Contact Me  
 - 📞 **Phone:** +923453035433  
 - 💬 **Telegram:** [@farmanullah_786](https://t.me/farmanullah_786)
-- 🌐 **Portfolio:** [farman-resume.netlify.app](https://farman-resume.netlify.app)  
+- 🌐 **Portfolio:** [farmandev.vercel.app](https://farmandev.vercel.app)  
 - ✉️ **Email:** farman.developer786@gmail.com  
 
 ---
